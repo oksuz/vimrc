@@ -1,4 +1,4 @@
-myvim
+dotfiles
 =====
 
-My vim config
+my dotfiles
